@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ritika Asnani</h1>
 
-<!--
-**ritika-asnani/ritika-asnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🧠 About Me</h2>
 
-Here are some ideas to get you started:
+- 🔭 I'm a passionate learner exploring the world of **software development** and **data analytics**
+- 📊 Aspiring **Data Analyst** with a growing interest in **data visualization**
+- 🌱 Currently learning:
+  - 🐍 <b>Python</b> for data analysis (NumPy, Pandas, Matplotlib)
+  - ☕ <b>Java</b> for object-oriented programming
+  - 🌐 <b>JavaScript</b> for front-end development
+- 📫 Reach me at: <a href="mailto:ritika.asnani046@gmail.com">ritika.asnani046@gmail.com</a>
+- ✨ Fun fact: I love turning raw data into meaningful stories!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+<h2>🛠️ Skills & Tools</h2>  
+
+<b>💬 Languages:</b> Python, Java, JavaScript, HTML, CSS  
+<b>📊 Data Tools:</b> Pandas, NumPy, Excel  
+
+<hr />
+
+<h2>📬 Let's Connect</h2>
+
+<a href="https://www.linkedin.com/in/ritika-asnani-9b432a285/" style="color: #0077b5;">🔗 LinkedIn</a><br>
+
+✨ Thanks for visiting!
