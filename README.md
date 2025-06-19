@@ -23,7 +23,7 @@
 <h2>📬 Let's Connect</h2>
 
 <a href="https://www.linkedin.com/in/ritika-asnani-9b432a285/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
 </a>
 
 ✨ Thanks for visiting!
