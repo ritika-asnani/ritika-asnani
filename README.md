@@ -22,7 +22,7 @@
 
 <h2>📬 Let's Connect</h2>
 
-<a href="https://www.linkedin.com/in/ritika-asnani-9b432a285/" target="_blank" style="align:center">
+<a href="https://www.linkedin.com/in/ritika-asnani-9b432a285/" target="_blank" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
 </a>
 
