@@ -28,4 +28,7 @@
 
 <hr />
 
+![Profile Views](https://komarev.com/ghpvc/?username=ritika-asnani&color=0A66C2&style=flat)
+
+
 ✨ Thanks for visiting!
