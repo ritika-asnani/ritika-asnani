@@ -20,6 +20,22 @@
 
 <hr />
 
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitikaAsnani&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikaAsnani&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaAsnani&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<hr />
+
 <h2>📬 Let's Connect</h2>
 
 <a href="https://www.linkedin.com/in/ritika-asnani-9b432a285/" target="_blank">
