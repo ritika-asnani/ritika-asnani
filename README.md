@@ -4,10 +4,7 @@
 
 - 🔭 I'm a passionate learner exploring the world of **software development** and **data analytics**
 - 📊 Aspiring **Data Analyst** with a growing interest in **data visualization**
-- 🌱 Currently learning:
-  - 🐍 <b>Python</b> for data analysis (NumPy, Pandas, Matplotlib)
-  - ☕ <b>Java</b> for object-oriented programming
-  - 🌐 <b>JavaScript</b> for front-end development
+- 🌱 Currently learning: <b>Python</b> for data analysis (NumPy, Pandas, Matplotlib)
 - 📫 Reach me at: <a href="mailto:ritika.asnani046@gmail.com">ritika.asnani046@gmail.com</a>
 - ✨ Fun fact: I love turning raw data into meaningful stories!
 
