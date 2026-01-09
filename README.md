@@ -2,9 +2,9 @@
 
 <h2>🧠 About Me</h2>
 
-- 🔭 I'm a passionate learner exploring the world of **software development** and **data analytics**
+- 🔭 I'm a passionate learner exploring the world of **data analytics**
 - 📊 Aspiring **Data Analyst** with a growing interest in **data visualization**
-- 🌱 Currently learning: <b>Python</b> for data analysis (NumPy, Pandas, Matplotlib)
+- 🌱 Currently working on hands-on projects using **Python, SQL, and Power BI** to analyze and visualize real datasets
 - 📫 Reach me at: <a href="mailto:ritika.asnani046@gmail.com">ritika.asnani046@gmail.com</a>
 - ✨ Fun fact: I love turning raw data into meaningful stories!
 
@@ -12,8 +12,8 @@
 
 <h2>🛠️ Skills & Tools</h2>  
 
-<b>💬 Languages:</b> Python, Java, JavaScript, HTML, CSS  
-<b>📊 Data Tools:</b> Pandas, NumPy, Excel  
+<b>💬 Languages:</b> Python, Java, JavaScript, HTML, CSS, SQL 
+<b>📊 Data Tools:</b> Pandas, NumPy, Excel, Power BI
 
 <hr />
 
