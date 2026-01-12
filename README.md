@@ -12,10 +12,10 @@
 
 <h2>🛠️ Skills & Tools</h2>  
 
-<b>💬 Languages:</b> Python, Java, JavaScript, HTML, CSS, SQL <br>
-<b>🧮 Data Analysis:</b> Pandas, NumPy, Excel <br>
-<b>📈 Data Visualization:</b> Matplotlib, Seaborn, Power BI <br>
-<b>🗄️ Databases:</b> MySQL
+- <b>💬 Languages:</b> Python, Java, JavaScript, HTML, CSS, SQL <br>
+- <b>🧮 Data Analysis:</b> Pandas, NumPy, Excel <br>
+- <b>📈 Data Visualization:</b> Matplotlib, Seaborn, Power BI <br>
+- <b>🗄️ Databases:</b> MySQL
 
 <hr />
 
